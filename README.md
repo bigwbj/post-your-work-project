@@ -19,7 +19,20 @@ and computes descriptive statistics such as
 
 This could include:
 
-- Step-by-step instructions for installing or setting up your project.
+docs: Add step-by-step instructions for installing
+
+### Step-by-step instructions for installing or setting up your project.
+  1. Ensure you have **Python 3** installed.
+  2. Install required Python packages:
+     ```bash
+     pip install pandas numpy
+     ```
+  3. Place the CSV files (`new_york_city.csv`, `washington.csv`, `chicago.csv`) in the same directory as the Python script.
+  4. Run the program:
+     ```bash
+     python bikeshare.py
+     ```
+     
 - Any software dependencies that need to be installed.
 - Instructions and examples for how to use your project, including any helpful code snippets.
 - Common issues and troubleshooting tips
