@@ -1,9 +1,19 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# City bikeshare
 
-Describe what your project is about and what it does
+This project analyzes the bikeshare usage data for the city New York (and other citys if CSV is available).
+The Python script loads raw trip data from CSV files and filters it by 
+* city 
+* month
+* day of week
+
+and computes descriptive statistics such as 
+* the most common travel times
+* the most common stations
+* trip durations
+* user demographics
 
 ## Information about how to use your project
 
