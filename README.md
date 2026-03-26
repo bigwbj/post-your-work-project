@@ -32,10 +32,19 @@ docs: Add step-by-step instructions for installing
      ```bash
      python bikeshare.py
      ```
-     
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+
+### Any software dependencies that need to be installed.
+  The script imports:
+  * `pandas` for data loading and filtering  
+  * `numpy` for numerical operations  
+  * `time` for measuring execution time 
+
+### Instructions and examples for how to use your project, including any helpful code snippets.
+  When you run the script, it interactively asks for:
+  * a **city** (`chicago`, `new york city`, `washington`)
+  * a **month** (`january`–`june` or `all`)
+  * a **day of week** (`monday`–`sunday` or `all`)
+
 
 ## Contribution guidelines
 
