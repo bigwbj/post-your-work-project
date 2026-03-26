@@ -61,4 +61,5 @@ Additional inspiration and guidance were drawn from the course materials and exa
 
 ## Date created
 
-Include the date you created this project and README file.
+This project and README were created on March 2026.
+Last updated: March 2026.
