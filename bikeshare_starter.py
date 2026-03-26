@@ -5,6 +5,11 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# Get user input for city, month, and day of week
+city = input('Enter city:').lower()
+month = input('Enter month:').lower()
+day = input('Enter day:').lower()
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
