@@ -52,7 +52,12 @@ If you welcome contributions, provide guidelines on how others can contribute to
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was created as part of the Udacity course **"Introduction to Version Control"** taught by *Richard Kalehoff*.  
+The project template was originally forked from the official Udacity repository:
+
+- https://github.com/udacity/post-your-work-project
+
+Additional inspiration and guidance were drawn from the course materials and examples provided throughout the program.
 
 ## Date created
 
